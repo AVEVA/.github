@@ -46,10 +46,10 @@ The official AVEVA samples are organized by technology and accessible through th
   <tr>
     <td align="middle" valign="top" width="50%">
       <h3>
-        <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Operations.md"> Cloud Operations </a>
+        <a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations"> Cloud Operations </a>
       </h3>
       These samples cover programming against AVEVA Data Hub. 
-      <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Operations.md"> Details </a>
+      <a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations"> Details </a>
       <br />
       <br />
     </td>
