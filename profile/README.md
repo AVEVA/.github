@@ -28,7 +28,7 @@ The official AVEVA samples are organized by technology and accessible through th
   </tr>
   <tr>
     <td align="left" valign="top" width="50%">
-      <img align="left" padding-top="50px" padding-right="40px" valign="middle" width="64" height="64" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/content-cloud.png">
+      <img align="left" width="64" height="64" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/content-cloud.png">
       <h3>
         <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Engineering.md"> Cloud Engineering </a>
       </h3>
