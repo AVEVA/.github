@@ -62,12 +62,12 @@ The official AVEVA samples are organized by technology and accessible through th
     <td align="left" valign="top" width="50%">
       <img align="left" padding-top="50px" padding-right="40px" valign="middle" width="64" height="64" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/configuration-operations-management.png">
       <h3>
-        <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/On-Prem_Operations.md">
+        <a href="https://github.com/AVEVA/AVEVA-Samples-PI-System">
           On-Prem Operations
         </a>
       </h3>
       These samples cover topics related to the PI System and MES.
-      <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/On-Prem_Operations.md"> Details </a>
+      <a href="https://github.com/AVEVA/AVEVA-Samples-PI-System"> Details </a>
       <br />
       <br />
     </td>
