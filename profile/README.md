@@ -6,14 +6,17 @@
 
 The official AVEVA samples are organized by technology and accessible through the following table, note you can always utilize GitHub search to find a repo too:
 
+
 <table align="middle" width="100%">
   <tr>
     <th align="middle" colspan="2">
+      <img src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/screens2.png" width="100%"/>
       <h2>Technologies</h2>
     </th>
   </tr>
   <tr>
-    <td align="middle" colspan="2">
+    <td align="middle" colspan="2">          
+      <img align="middle" width="100" height="100" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/application-aveva-connect.png">
       <h3>
         <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Connect.md"> Connect </a>
       </h3>
@@ -25,6 +28,7 @@ The official AVEVA samples are organized by technology and accessible through th
   </tr>
   <tr>
     <td align="middle" valign="top" width="50%">
+      <img align="left" width="100" height="100" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/content-cloud.png">
       <h3>
         <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Engineering.md"> Cloud Engineering </a>
       </h3>
@@ -34,6 +38,7 @@ The official AVEVA samples are organized by technology and accessible through th
       <br />
     </td>
     <td align="middle" valign="top" width="50%">
+      <img align="left" width="100" height="100" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/content-schematic-3d-integrator.png">
       <h3>
         <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/On-Prem_Engineering.md"> On-prem Engineering </a>
       </h3>
@@ -44,16 +49,18 @@ The official AVEVA samples are organized by technology and accessible through th
     </td>
   </tr>
   <tr>
-    <td align="middle" valign="top" width="50%">
+    <td align="middle" valign="top" width="50%">      
+      <img align="left" width="100" height="100" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/application--data-hub.png">
       <h3>
-        <a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations"> Cloud Operations </a>
+        <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Operations.md"> Cloud Operations </a>
       </h3>
       These samples cover programming against AVEVA Data Hub. 
-      <a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations"> Details </a>
+      <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Operations.md"> Details </a>
       <br />
       <br />
     </td>
     <td align="middle" valign="top" width="50%">
+      <img align="left" width="100" height="100" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/configuration-operations-management.png">
       <h3>
         <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/On-Prem_Operations.md">
           On-Prem Operations
