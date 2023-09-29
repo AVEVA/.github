@@ -16,7 +16,7 @@ The official AVEVA samples are organized by technology and accessible through th
   </tr>
   <tr>
     <td align="middle" colspan="2">          
-      <img align="middle" width="48" height="48" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/application-aveva-connect.png">
+      <img align="middle" width="64" height="64" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/application-aveva-connect.png">
       <h3>
         <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Connect.md"> Connect </a>
       </h3>
@@ -28,7 +28,7 @@ The official AVEVA samples are organized by technology and accessible through th
   </tr>
   <tr>
     <td align="left" valign="top" width="50%">
-      <img align="left" padding-top="50px" padding-right="40px" valign="middle" width="48" height="48" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/content-cloud.png">
+      <img align="left" padding-top="50px" padding-right="40px" valign="middle" width="64" height="64" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/content-cloud.png">
       <h3>
         <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Engineering.md"> Cloud Engineering </a>
       </h3>
@@ -38,7 +38,7 @@ The official AVEVA samples are organized by technology and accessible through th
       <br />
     </td>
     <td align="left" valign="top" width="50%">
-      <img align="left" padding-top="50px" padding-right="40px" valign="middle" width="48" height="48" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/content-schematic-3d-integrator.png">
+      <img align="left" padding-top="50px" padding-right="40px" valign="middle" width="64" height="64" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/content-schematic-3d-integrator.png">
       <h3>
         <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/On-Prem_Engineering.md"> On-prem Engineering </a>
       </h3>
@@ -50,17 +50,17 @@ The official AVEVA samples are organized by technology and accessible through th
   </tr>
   <tr>
     <td align="left" valign="top" width="50%">      
-      <img align="left" padding-top="50px" padding-right="40px" valign="middle" width="48" height="48" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/application--data-hub.png">
+      <img align="left" padding-top="50px" padding-right="40px" valign="middle" width="64" height="64" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/application--data-hub.png">
       <h3>
-        <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Operations.md"> Cloud Operations </a>
+        <a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations"> Cloud Operations </a>
       </h3>
       These samples cover programming against AVEVA Data Hub. 
-      <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Operations.md"> Details </a>
+      <a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations"> Details </a>
       <br />
       <br />
     </td>
     <td align="left" valign="top" width="50%">
-      <img align="left" padding-top="50px" padding-right="40px" valign="middle" width="48" height="48" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/configuration-operations-management.png">
+      <img align="left" padding-top="50px" padding-right="40px" valign="middle" width="64" height="64" src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/configuration-operations-management.png">
       <h3>
         <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/On-Prem_Operations.md">
           On-Prem Operations
