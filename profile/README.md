@@ -21,7 +21,7 @@ The official AVEVA samples are organized by technology and accessible through th
             <img width="48" height="48"
                 src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/application-aveva-connect.png">
             <h3>
-                <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Connect.md"> Connect </a>
+                &nbsp;&nbsp;&nbsp;<a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Connect.md"> Connect </a>
             </h3>
             These samples cover programming against Connect.
             <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Connect.md"> Details </a>
