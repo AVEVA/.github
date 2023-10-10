@@ -138,105 +138,39 @@ The official AVEVA samples are organized by technology and accessible through th
 </details>
 </td>
 </tr></table></details><details open><summary><a><b>OMF</b></a></summary><table align="middle" width="100%"><tr>
-<td align="left" valign="top"><a href=""><b>OMF</b></a>
+<td align="left" valign="top"><a href=""><b></b></a>
 <details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-OMF/blob/main/docs/OMF_BASIC.md"><b>Basic OMF</b></a></summary>
 <a href="https://github.com/osisoft/sample-omf-basic_api-dotnet">.NET</a><br />
 <a href="https://github.com/osisoft/sample-omf-basic_api-python">Python</a><br />
 <a href="https://github.com/osisoft/sample-omf-basic_api-cpp">C++</a>
 </details>
+</td>
+<td align="left" valign="top"><a href=""><b></b></a>
 <details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-OMF/blob/main/docs/COMPLEX_DYNAMIC.md"><b>Complex Dynamic</b></a></summary>
 <a href="https://github.com/osisoft/sample-omf-complex_dynamic-python">Python</a>
 </details>
+</td>
+<td align="left" valign="top"><a href=""><b></b></a>
 <details open><summary><a href="https://github.com/osisoft/sample-omf-bart_ingress-dotnet"><b>Bart Ingress</b></a></summary>
 <a href="https://github.com/osisoft/sample-omf-bart_ingress-dotnet">.NET</a>
 </details>
+</td>
+<td align="left" valign="top"><a href=""><b></b></a>
 <details open><summary><a href="https://github.com/osisoft/sample-omf-bulk_upload-python"><b>Bulk Upload</b></a></summary>
 <a href="https://github.com/osisoft/sample-omf-bulk_upload-python">Python</a>
 </details>
+</td>
+<td align="left" valign="top"><a href=""><b></b></a>
 <details open><summary><a href="https://github.com/osisoft/sample-omf-azure_functions-dotnet"><b>Azure Functions</b></a></summary>
 <a href="https://github.com/osisoft/sample-omf-azure_functions-dotnet">.NET</a>
 </details>
+</td>
+<td align="left" valign="top"><a href=""><b></b></a>
 <details open><summary><a href="https://github.com/osisoft/sample-omf-temperature_sensor-python"><b>Temperature Sensor </b></a></summary>
 <a href="https://github.com/osisoft/sample-omf-temperature_sensor-python">Python</a>
 </details>
 </td>
 </tr></table></details>
-=======
-<table align="middle" width="100%">
-    <tr>
-        <th colspan="2">
-            <img src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/screens2.png"
-                width="100%" />
-            <h2>Technologies</h2>
-        </th>
-    </tr>
-    <tr>
-        <td align="middle" colspan="2">
-            <br />
-            <img width="48" height="48"
-                src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/application-aveva-connect.png">
-            <h3>
-                &nbsp;&nbsp;&nbsp;<a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Connect.md"> Connect </a>
-            </h3>
-            These samples cover programming against Connect.
-            <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Connect.md"> Details </a>
-            <br />
-            <br />
-        </td>
-    </tr>
-    <tr>
-        <td align="left" valign="top" width="50%">
-            <img align="left" width="96" height="128"
-                src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/content-cloud.png">
-            <h3>
-                <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Engineering.md"> Cloud
-                    Engineering </a>
-            </h3>
-            These samples cover programming against AVEVA Cloud Engineering.
-            <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/Cloud_Engineering.md"> Details </a>
-            <br />
-            <br />
-        </td>
-        <td align="left" valign="top" width="50%">
-            <img align="left" valign="middle" width="96" height="128"
-                src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/content-schematic-3d-integrator.png">
-            <h3>
-                <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/On-Prem_Engineering.md"> On-prem
-                    Engineering </a>
-            </h3>
-            These samples cover programming against AVEVA On-Prem Engineering.
-            <a href="https://github.com/AVEVA/OSI-Samples-ADH/blob/main/docs/On-Prem_Engineering.md"> Details </a>
-            <br />
-            <br />
-        </td>
-    </tr>
-    <tr>
-        <td align="left" valign="top" width="50%">
-            <img align="left" valign="middle" width="96" height="128"
-                src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/application-data-hub.png">
-            <h3>
-                <a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations"> Cloud Operations </a>
-            </h3>
-            These samples cover programming against AVEVA Data Hub.
-            <a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations"> Details </a>
-            <br />
-            <br />
-        </td>
-        <td align="left" valign="top" width="50%">
-            <img align="left" valign="middle" width="96" height="128"
-                src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/configuration--operations-management.png">
-            <h3>
-                <a href="https://github.com/AVEVA/AVEVA-Samples-PI-System">
-                    On-Prem Operations
-                </a>
-            </h3>
-            These samples cover topics related to the PI System and MES.
-            <a href="https://github.com/AVEVA/AVEVA-Samples-PI-System"> Details </a>
-            <br />
-            <br />
-        </td>
-    </tr>
-</table>
 
 ## About this repo
 
