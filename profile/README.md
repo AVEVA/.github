@@ -9,7 +9,7 @@ The official AVEVA samples are organized by technology and accessible through th
 
 <img src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/screens2.png" width="100%"/>
 
-<details open><summary><a><b>AVEVA Data Hub</b></a></summary><table align="middle" width="100%"><tr>
+<details open><summary><a><b>Data Hub</b></a></summary><table align="middle" width="100%"><tr>
 <td align="left" valign="top"><a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/AUTHENTICATION.md"><b>Authentication</b></a>
 <details open><summary><a href="https://github.com/aveva/sample-adh-authentication_client_credentials-dotnet"><b>Client Credentials</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-authentication_client_credentials-dotnet">.NET Libraries</a><br />
@@ -99,7 +99,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python">Python</a>
 </details>
 </td>
-</tr></table></details><details open><summary><a><b>AVEVA PI System</b></a></summary><table align="middle" width="100%"><tr>
+</tr></table></details><details open><summary><a><b>PI System</b></a></summary><table align="middle" width="100%"><tr>
 <td align="left" valign="top"><a href=""><b>AFSDK</b></a>
 <details open><summary><a href="https://github.com/osisoft/AF-SDK-Getting-Started-Guide/"><b>AF SDK Getting Started Guide</b></a></summary>
 <a href="https://github.com/osisoft/AF-SDK-Getting-Started-Guide/">.NET</a>
