@@ -10,7 +10,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <img src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/screens2.png" width="100%"/>
 
 <details open><summary><a><b>Data Hub</b></a></summary><table align="middle" width="100%"><tr>
-<td align="left" valign="top"><a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/AUTHENTICATION.md"><b>Authentication</b></a>
+<td align="left" valign="top"><a><b>Authentication</b></a>
 <details open><summary><a href="https://github.com/aveva/sample-adh-authentication_client_credentials-dotnet"><b>Client Credentials</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-authentication_client_credentials-dotnet">.NET Libraries</a><br />
 <a href="https://github.com/aveva/sample-adh-authentication_client_credentials_simple-dotnet">.NET REST API</a><br />
@@ -27,7 +27,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/aveva/sample-adh-authentication_authorization-Python">Python</a>
 </details>
 </td>
-<td align="left" valign="top"><a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/COMMON_ACTIONS.md"><b>Types, Streams, Events, and Retrieving Data</b></a>
+<td align="left" valign="top"><a><b>Types, Streams, Events, and Retrieving Data</b></a>
 <details open><summary><a href="docs/SDS_TIME_SERIES.md"><b>Create, Read & Write Time-Series Data</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-time_series-python">Python</a><br />
 <a href="https://github.com/aveva/sample-adh-time_series-dotnet">.NET</a>
@@ -52,7 +52,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet">.NET</a>
 </details>
 </td>
-<td align="left" valign="top"><a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/VISUALIZATION.md"><b>Visualization</b></a>
+<td align="left" valign="top"><a"><b>Visualization</b></a>
 <details open><summary><a href="https://github.com/aveva/sample-adh-grafana_backend_plugin-datasource"><b>Grafana</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-grafana_backend_plugin-datasource">NodeJS</a>
 </details>
@@ -64,7 +64,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/aveva/sample-ocs-data_retrieval-power_query_m">Power Query M</a>
 </details>
 </td>
-<td align="left" valign="top"><a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/ANALYTICS.md"><b>Analytics</b></a>
+<td align="left" valign="top"><a"><b>Analytics</b></a>
 <details open><summary><a href="docs/DATA_VIEWS.md)"><b>Data Views Create and Read</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-data_views-python">Python</a><br />
 <a href="https://github.com/aveva/sample-adh-data_views-dotnet">.NET</a>
@@ -76,7 +76,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/aveva/sample-adh-data_views_r-r">R</a>
 </details>
 </td>
-<td align="left" valign="top"><a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/OTHER.md"><b>Functionality & Utilities</b></a>
+<td align="left" valign="top"><a><b>Functionality & Utilities</b></a>
 <details open><summary><a href="https://github.com/aveva/sample-adh-uom-dotnet"><b>UOM</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-uom-dotnet">.NET</a>
 </details>
@@ -100,7 +100,7 @@ The official AVEVA samples are organized by technology and accessible through th
 </details>
 </td>
 </tr></table></details><details open><summary><a><b>PI System</b></a></summary><table align="middle" width="100%"><tr>
-<td align="left" valign="top"><a href=""><b>AFSDK</b></a>
+<td align="left" valign="top"><a ><b>AFSDK</b></a>
 <details open><summary><a href="https://github.com/osisoft/AF-SDK-Getting-Started-Guide/"><b>AF SDK Getting Started Guide</b></a></summary>
 <a href="https://github.com/osisoft/AF-SDK-Getting-Started-Guide/">.NET</a>
 </details>
@@ -111,7 +111,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/osisoft/sample-afsdk-timer_triggered_calculation-dotnet">.NET</a>
 </details>
 </td>
-<td align="left" valign="top"><a href=""><b>PI System Deployment</b></a>
+<td align="left" valign="top"><a><b>PI System Deployment</b></a>
 <details open><summary><a href="https://github.com/osisoft/sample-pi_core-pi_core_deployment_tests-powershell"><b>PI System Deployment Tests</b></a></summary>
 <a href="https://github.com/osisoft/sample-pi_core-pi_core_deployment_tests-powershell">Powershell</a>
 </details>
@@ -121,12 +121,12 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/osisoft/sample-pi_core-deployment_on_prem-powershell">On-prem Powershell</a>
 </details>
 </td>
-<td align="left" valign="top"><a href=""><b>PI Vision</b></a>
+<td align="left" valign="top"><a><b>PI Vision</b></a>
 <details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-PI-System/blob/main/docs/PI-Vision-Extensibility-Docs"><b>PI Vision Extensibility</b></a></summary>
 <a href="https://github.com/osisoft/sample-pi_vision_extensibility-rotating_arrow-js">JavaScript</a>
 </details>
 </td>
-<td align="left" valign="top"><a href=""><b>PI Web API</b></a>
+<td align="left" valign="top"><a><b>PI Web API</b></a>
 <details open><summary><a href="https://github.com/osisoft/OSI-Samples-PI-System/blob/main/docs/PI-Web-API-Docs/COMMON_ACTION_README.md"><b>Common API Actions</b></a></summary>
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-angular">Angular</a><br />
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-jquery">JQuery</a><br />
