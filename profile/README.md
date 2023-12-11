@@ -39,7 +39,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="docs/PI_TO_ADH_READ_DATA.md"><b>PI to ADH Read Only Streams</b></a></summary>
 <a href="https://github.com/aveva/sample-pi-to-adh-read-only-data-dotnet">.NET</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-adh-streaming-updates_rest_api-dotnet"><b>Streaming Updates</b></a></summary>
+<details open><summary><a href="https://github.com/aveva/sample-adh-change_broker_rest_api-dotnet"><b>Change Broker</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-streaming-updates_rest_api-dotnet">.NET</a>
 </details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-event_store-python"><b>Event Data</b></a></summary>
