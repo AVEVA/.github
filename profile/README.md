@@ -14,7 +14,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/sample-adh-authentication_client_credentials-dotnet"><b>Client Credentials</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-authentication_client_credentials-dotnet">.NET Libraries</a><br />
 <a href="https://github.com/aveva/sample-adh-authentication_client_credentials_simple-dotnet">.NET REST API</a><br />
-<a href="https://github.com/aveva/sample-adh-authentication_client_credentials_Java">Java</a><br />
+<a href="https://github.com/AVEVA/sample-adh-authentication_client_credentials_simple-java">Java</a><br />
 <a href="https://github.com/aveva/sample-adh-authentication_client_credentials_simple-NodeJS">NodeJS</a><br />
 <a href="https://github.com/aveva/sample-adh-authentication_client_credentials_simple-Postman">Postman</a><br />
 <a href="https://github.com/aveva/sample-adh-authentication_client_credentials_simple-Powershell">Powershell</a><br />
@@ -28,16 +28,17 @@ The official AVEVA samples are organized by technology and accessible through th
 </details>
 </td>
 <td align="left" valign="top"><a><b>Types, Streams, Events, and Retrieving Data</b></a>
-<details open><summary><a href="docs/SDS_TIME_SERIES.md"><b>Create, Read & Write Time-Series Data</b></a></summary>
+<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/SDS_TIME_SERIES.md"><b>Create, Read & Write Time-Series Data</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-time_series-python">Python</a><br />
 <a href="https://github.com/aveva/sample-adh-time_series-dotnet">.NET</a>
 </details>
-<details open><summary><a href="docs/SDS_WAVEFORM.md"><b>Read & Write Data with a Sequential Index</b></a></summary>
+<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/SDS_WAVEFORM.md"><b>Read & Write Data with a Sequential Index</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-waveform-python">Python</a><br />
 <a href="https://github.com/aveva/sample-adh-waveform_libraries-dotnet">.NET</a>
 </details>
-<details open><summary><a href="docs/PI_TO_ADH_READ_DATA.md"><b>PI to ADH Read Only Streams</b></a></summary>
-<a href="https://github.com/aveva/sample-pi-to-adh-read-only-data-dotnet">.NET</a>
+<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/PI_TO_ADH_READ_DATA.md"><b>PI to ADH Read Only Streams</b></a></summary>
+<a href="https://github.com/AVEVA/sample-adh-pi_to_adh_read_only_data-python">Python</a><br />
+<a href="https://github.com/AVEVA/sample-adh-pi_to_adh_read_only_data-dotnet">.NET</a>
 </details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-change_broker_rest_api-dotnet"><b>Change Broker</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-streaming-updates_rest_api-dotnet">.NET</a>
@@ -45,7 +46,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/sample-adh-event_store-python"><b>Event Data</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-event_store-python">Python</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/AVEVA-Samples-CloudOperations/blob/main/docs/DATA_INGRESS.md"><b>Data Ingress</b></a></summary>
+<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/DATA_INGRESS.md"><b>Data Ingress</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-omf_ingress-dotnet">.NET</a>
 </details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet"><b>CSV to ADH</b></a></summary>
@@ -56,8 +57,8 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/sample-adh-grafana_backend_plugin-datasource"><b>Grafana</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-grafana_backend_plugin-datasource">NodeJS</a>
 </details>
-<details open><summary><a href="docs/ASSETS.md"><b>Assets</b></a></summary>
-<a href="https://github.com/aveva/sample-adh-assets_rest_api-python">Python</a><br />
+<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/ASSETS.md"><b>Assets</b></a></summary>
+<a href="https://github.com/AVEVA/sample-adh-assets-python">Python</a><br />
 <a href="https://github.com/aveva/sample-adh-assets_rest_api-dotnet">.NET</a>
 </details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-data_retrieval-power_query_m"><b>Power Query M</b></a></summary>
@@ -65,7 +66,7 @@ The official AVEVA samples are organized by technology and accessible through th
 </details>
 </td>
 <td align="left" valign="top"><a"><b>Analytics</b></a>
-<details open><summary><a href="docs/DATA_VIEWS.md)"><b>Data Views Create and Read</b></a></summary>
+<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/DATA_VIEWS.md"><b>Data Views Create and Read</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-data_views-python">Python</a><br />
 <a href="https://github.com/aveva/sample-adh-data_views-dotnet">.NET</a>
 </details>
@@ -83,7 +84,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/sample-adh-namespace_data_copy-python"><b>Namespace Data Copy</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-namespace_data_copy-python">Python</a>
 </details>
-<details open><summary><a href="docs/SAMPLE_LIBRARIES.md"><b>Sample Libraries</b></a></summary>
+<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/SAMPLE_LIBRARIES.md"><b>Sample Libraries</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-sample_libraries-python">Python</a>
 </details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-security_management-python"><b>Security Management</b></a></summary>
@@ -127,7 +128,7 @@ The official AVEVA samples are organized by technology and accessible through th
 </details>
 </td>
 <td align="left" valign="top"><a><b>PI Web API</b></a>
-<details open><summary><a href="https://github.com/osisoft/OSI-Samples-PI-System/blob/main/docs/PI-Web-API-Docs/COMMON_ACTION_README.md"><b>Common API Actions</b></a></summary>
+<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-PI-System/blob/main/docs/PI-Web-API-Docs/COMMON_ACTION_README.md"><b>Common API Actions</b></a></summary>
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-angular">Angular</a><br />
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-jquery">JQuery</a><br />
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-python">Python</a><br />
@@ -192,4 +193,4 @@ If you wish to contribute please take a look at the [contribution guide](https:/
 
 ## License
 
-[AVEVA Samples](https://github.com/AVEVA/AVEVA-Samples) are licensed under the [Apache 2 license](LICENSE).
+[AVEVA Samples](https://github.com/AVEVA/AVEVA-Samples) are licensed under the [Apache 2 license](https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/LICENSE).
