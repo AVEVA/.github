@@ -45,7 +45,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/sample-adh-event_store-python"><b>Event Data</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-event_store-python">Python</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/DATA_INGRESS.md"><b>Data Ingress</b></a></summary>
+<details open><summary><a href="https://github.com/aveva/AVEVA-Samples-CloudOperations/blob/main/docs/DATA_INGRESS.md"><b>Data Ingress</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-omf_ingress-dotnet">.NET</a>
 </details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet"><b>CSV to ADH</b></a></summary>
@@ -60,8 +60,8 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/aveva/sample-adh-assets_rest_api-python">Python</a><br />
 <a href="https://github.com/aveva/sample-adh-assets_rest_api-dotnet">.NET</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-ocs-data_retrieval-power_query_m"><b>Power Query M</b></a></summary>
-<a href="https://github.com/aveva/sample-ocs-data_retrieval-power_query_m">Power Query M</a>
+<details open><summary><a href="https://github.com/aveva/sample-adh-data_retrieval-power_query_m"><b>Power Query M</b></a></summary>
+<a href="https://github.com/aveva/sample-adh-data_retrieval-power_query_m">Power Query M</a>
 </details>
 </td>
 <td align="left" valign="top"><a"><b>Analytics</b></a>
@@ -86,14 +86,14 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="docs/SAMPLE_LIBRARIES.md"><b>Sample Libraries</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-sample_libraries-python">Python</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-ocs-security_management-python"><b>Security Management</b></a></summary>
-<a href="https://github.com/aveva/sample-ocs-security_management-python">Python</a>
+<details open><summary><a href="https://github.com/aveva/sample-adh-security_management-python"><b>Security Management</b></a></summary>
+<a href="https://github.com/aveva/sample-adh-security_management-python">Python</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-ocs-stream_type_change-python"><b>Stream Type Change</b></a></summary>
-<a href="https://github.com/aveva/sample-ocs-stream_type_change-python">Python</a>
+<details open><summary><a href="https://github.com/aveva/sample-adh-stream_type_change-python"><b>Stream Type Change</b></a></summary>
+<a href="https://github.com/aveva/sample-adh-stream_type_change-python">Python</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-ocs-stream_type_change-python"><b>PI to AVEVA Data Hub Transfer Verification Sample</b></a></summary>
-<a href="https://github.com/aveva/sample-ocs-stream_type_change-python">Python</a>
+<details open><summary><a href="https://github.com/aveva/sample-adh-stream_type_change-python"><b>PI to AVEVA Data Hub Transfer Verification Sample</b></a></summary>
+<a href="https://github.com/aveva/sample-adh-stream_type_change-python">Python</a>
 </details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python"><b>Data Hub to PI</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python">Python</a>
