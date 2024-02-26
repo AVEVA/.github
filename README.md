@@ -2,7 +2,7 @@
 
 # AVEVA Samples
 
-[AVEVA](https://www.aveva.com/) is a proven leader in enabling operation intelligence. In this GitHub repo, we provide navigatoin to sample repos which will help you get started with using AVEVA technology. The samples are intended to help you get started and are not production applications and libraries.
+[AVEVA](https://www.aveva.com/) is a proven leader in enabling operation intelligence. In this GitHub repo, we provide navigation to sample repos which will help you get started with using AVEVA technology. The samples are intended to help you get started and are not production applications and libraries.
 
 The official AVEVA samples are organized by technology and accessible through the following table, note you can always utilize GitHub search to find a repo too:
 
