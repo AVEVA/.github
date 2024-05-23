@@ -130,10 +130,6 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-angular">Angular</a><br />
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-jquery">JQuery</a><br />
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-python">Python</a><br />
-<a href="https://github.com/osisoft/sample-pi_web_api-common_actions-r">R</a>
-</details>
-<details open><summary><a href="https://github.com/osisoft/sample-pi_web_api-data_analysis_jupyter-python"><b>Data Analysis</b></a></summary>
-<a href="https://github.com/osisoft/sample-pi_web_api-data_analysis_jupyter-python">Jupyter (Python)</a>
 </details>
 </td>
 </tr></table></details><details open><summary><a><b>OMF</b></a></summary><table align="middle" width="100%"><tr>
