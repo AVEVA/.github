@@ -62,6 +62,9 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/sample-adh-data_retrieval-power_query_m"><b>Power Query M</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-data_retrieval-power_query_m">Power Query M</a>
 </details>
+<details open><summary><a href="https://github.com/aveva/sample-adh-graphql_connector-powerbi"><b>GraphQL Power BI</b></a></summary>
+<a href="https://github.com/aveva/sample-adh-graphql_connector-powerbi">GraphQL Power BI</a>
+</details>
 </td>
 <td align="left" valign="top"><a"><b>Analytics</b></a>
 <details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/DATA_VIEWS.md"><b>Data Views Create and Read</b></a></summary>
