@@ -9,7 +9,7 @@ The official AVEVA samples are organized by technology and accessible through th
 
 <img src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/screens2.png" width="100%"/>
 
-<details open><summary><a><b>AVEVA Data Hub</b></a></summary><table align="middle" width="100%"><tr>
+<details open><summary><a><b>CONNECT data services</b></a></summary><table align="middle" width="100%"><tr>
 <td align="left" valign="top"><a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/AUTHENTICATION.md"><b>Authentication</b></a>
 <details open><summary><a href="https://github.com/aveva/sample-adh-authentication_client_credentials-dotnet"><b>Client Credentials</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-authentication_client_credentials-dotnet">.NET Libraries</a><br />
@@ -92,7 +92,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/sample-ocs-stream_type_change-python"><b>Stream Type Change</b></a></summary>
 <a href="https://github.com/aveva/sample-ocs-stream_type_change-python">Python</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-ocs-stream_type_change-python"><b>PI to AVEVA Data Hub Transfer Verification Sample</b></a></summary>
+<details open><summary><a href="https://github.com/aveva/sample-ocs-stream_type_change-python"><b>PI to CONNECT data services Transfer Verification Sample</b></a></summary>
 <a href="https://github.com/aveva/sample-ocs-stream_type_change-python">Python</a>
 </details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python"><b>Data Hub to PI</b></a></summary>
