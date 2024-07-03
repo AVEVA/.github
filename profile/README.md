@@ -94,8 +94,8 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/sample-adh-stream_type_change-python"><b>Stream Type Change</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-stream_type_change-python">Python</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-adh-stream_type_change-python"><b>PI to CONNECT data services Transfer Verification Sample</b></a></summary>
-<a href="https://github.com/aveva/sample-adh-stream_type_change-python">Python</a>
+<details open><summary><a href="https://github.com/AVEVA/sample-adh-pi_to_adh_transfer_verification-powershell"><b>PI to CONNECT data services Transfer Verification Sample</b></a></summary>
+<a href="https://github.com/AVEVA/sample-adh-pi_to_adh_transfer_verification-powershell">Powershell</a>
 </details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python"><b>Data Hub to PI</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python">Python</a>
