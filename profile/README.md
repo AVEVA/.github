@@ -7,7 +7,7 @@ The official AVEVA samples are organized by technology and accessible through th
 
 <img src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/screens2.png" width="100%"/>
 
-<details open><summary><a><b>Data Hub</b></a></summary><table align="middle" width="100%"><tr>
+<details open><summary><a><b>CONNECT data services</b></a></summary><table align="middle" width="100%"><tr>
 <td align="left" valign="top"><a><b>Authentication</b></a>
 <details open><summary><a href="https://github.com/aveva/sample-adh-authentication_client_credentials-dotnet"><b>Client Credentials</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-authentication_client_credentials-dotnet">.NET Libraries</a><br />
@@ -34,7 +34,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/aveva/sample-adh-waveform-python">Python</a><br />
 <a href="https://github.com/aveva/sample-adh-waveform_libraries-dotnet">.NET</a>
 </details>
-<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/PI_TO_ADH_READ_DATA.md"><b>PI to ADH Read Only Streams</b></a></summary>
+<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/PI_TO_ADH_READ_DATA.md"><b>PI to CONNECT data services Read Only Streams</b></a></summary>
 <a href="https://github.com/AVEVA/sample-adh-pi_to_adh_read_only_data-python">Python</a><br />
 <a href="https://github.com/AVEVA/sample-adh-pi_to_adh_read_only_data-dotnet">.NET</a>
 </details>
@@ -47,7 +47,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-CloudOperations/blob/main/docs/DATA_INGRESS.md"><b>Data Ingress</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-omf_ingress-dotnet">.NET</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet"><b>CSV to ADH</b></a></summary>
+<details open><summary><a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet"><b>CSV to CONNECT data services</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet">.NET</a>
 </details>
 </td>
@@ -97,7 +97,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/AVEVA/sample-adh-pi_to_adh_transfer_verification-powershell"><b>PI to CONNECT data services Transfer Verification Sample</b></a></summary>
 <a href="https://github.com/AVEVA/sample-adh-pi_to_adh_transfer_verification-powershell">Powershell</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python"><b>Data Hub to PI</b></a></summary>
+<details open><summary><a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python"><b>CONNECT data services to PI</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python">Python</a>
 </details>
 </td>
