@@ -180,9 +180,9 @@ If you have a need for a new sample, if there is a feature or capability that sh
 
 ## Support
 
-If your support question or issue is related to an AVEVA product (an error message, a problem with product configuration, etc...), please open a case with Tech Support through our [Customer Portal](https://my.osisoft.com).
+If your support question or issue is related to an AVEVA product (an error message, a problem with product configuration, etc...), please open a case with Tech Support through our [Customer Portal](https://github.com/AVEVA/.github/blob/main/CONTRIBUTING.md).
 
-If your support question or issue is related to a non-modified sample (or test) or documentation for the sample, please email Samples@osisoft.com.
+If your support question or issue is related to a non-modified sample (or test) or documentation for the sample, please email samples@aveva.com.
 
 ## Contributions
 

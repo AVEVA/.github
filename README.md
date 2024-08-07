@@ -36,7 +36,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/aveva/sample-adh-waveform-python">Python</a><br />
 <a href="https://github.com/aveva/sample-adh-waveform_libraries-dotnet">.NET</a>
 </details>
-<details open><summary><a href="docs/PI_TO_ADH_READ_DATA.md"><b>PI to ADH Read Only Streams</b></a></summary>
+<details open><summary><a href="docs/PI_TO_ADH_READ_DATA.md"><b>PI to Cds Read Only Streams</b></a></summary>
 <a href="https://github.com/aveva/sample-pi-to-adh-read-only-data-dotnet">.NET</a>
 </details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-streaming-updates_rest_api-dotnet"><b>Streaming Updates</b></a></summary>
@@ -48,7 +48,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/DATA_INGRESS.md"><b>Data Ingress</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-omf_ingress-dotnet">.NET</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet"><b>CSV to ADH</b></a></summary>
+<details open><summary><a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet"><b>CSV to Cds</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet">.NET</a>
 </details>
 </td>
@@ -95,7 +95,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/sample-ocs-stream_type_change-python"><b>PI to CONNECT data services Transfer Verification Sample</b></a></summary>
 <a href="https://github.com/aveva/sample-ocs-stream_type_change-python">Python</a>
 </details>
-<details open><summary><a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python"><b>Data Hub to PI</b></a></summary>
+<details open><summary><a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python"><b>CONNECT data services to PI</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python">Python</a>
 </details>
 </td>
@@ -182,9 +182,9 @@ If you have a need for a new sample, if there is a feature or capability that sh
 
 ## Support
 
-If your support question or issue is related to an AVEVA product (an error message, a problem with product configuration, etc...), please open a case with Tech Support through our [Customer Portal](https://my.osisoft.com).
+If your support question or issue is related to an AVEVA product (an error message, a problem with product configuration, etc...), please open a case with Tech Support through our [Customer Portal](https://www.aveva.com/en/support-and-success/support-contact/).
 
-If your support question or issue is related to a non-modified sample (or test) or documentation for the sample, please email Samples@osisoft.com.
+If your support question or issue is related to a non-modified sample (or test) or documentation for the sample, please email samples@aveva.com.
 
 ## Contributions
 
