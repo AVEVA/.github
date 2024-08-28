@@ -79,6 +79,9 @@ The official AVEVA samples are organized by technology and accessible through th
 </details>
 </td>
 <td align="left" valign="top"><a><b>Functionality & Utilities</b></a>
+<details open><summary><a href="https://github.com/AVEVA/sample-adh-setup_script-python"><b>Setup Script</b></a></summary>
+<a href="https://github.com/AVEVA/sample-adh-setup_script-python">Python</a>
+</details>
 <details open><summary><a href="https://github.com/aveva/sample-adh-uom-dotnet"><b>UOM</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-uom-dotnet">.NET</a>
 </details>
@@ -166,6 +169,9 @@ The official AVEVA samples are organized by technology and accessible through th
 <td align="left" valign="top"><a href=""><b></b></a>
 <details open><summary><a href="https://github.com/osisoft/sample-omf-temperature_sensor-python"><b>Temperature Sensor </b></a></summary>
 <a href="https://github.com/osisoft/sample-omf-temperature_sensor-python">Python</a>
+</details>  
+<details open><summary><a href="https://github.com/AVEVA/sample-omf-sample_libraries-python"><b>OMF Library</b></a></summary>
+<a href="https://github.com/AVEVA/sample-omf-sample_libraries-python">Python</a>
 </details>
 </td>
 </tr></table></details>
