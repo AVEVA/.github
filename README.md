@@ -1,5 +1,3 @@
-:exclamation: This organization is under construction :exclamation:
-
 # AVEVA Samples
 
 [AVEVA](https://www.aveva.com/) is a proven leader in enabling operation intelligence. In this GitHub repo, we provide navigation to sample repos which will help you get started with using AVEVA technology. The samples are intended to help you get started and are not production applications and libraries.
