@@ -1,7 +1,32 @@
 # AVEVA Samples
 
-[AVEVA](https://www.aveva.com/) is a proven leader in enabling operation intelligence. In this GitHub repo, we provide navigatoin to sample repos which will help you get started with using AVEVA technology. The samples are intended to help you get started and are not production applications and libraries.
+[AVEVA](https://www.aveva.com/) is a proven leader in enabling industrial intelligence.  Welcome to our GitHub repository of code samples! These examples are provided to help developers quickly become familiar with our technology and accelerate their understanding of our APIs. The code samples are designed to serve as a learning resource and starting point for your development projects.
 
+**Please Note**: These code samples are not part of a supported product release. While they demonstrate the use of our APIs and technology, they come as-is without the following features or guarantees associated with official product releases:
+
+What’s Not Included:
+
+1. **Official Support**
+* No guaranteed technical support or issue resolution.
+* No support via customer service channels.
+2. **Quality Assurance**
+* No extensive testing for stability, scalability, or security.
+* May contain bugs or limitations that have not been addressed.
+3. **Updates or Maintenance**
+* No regular updates to align with API changes or new product releases.
+* Potential for deprecation without notice.
+4. **Documentation Completeness**
+* May not include comprehensive guides, installation instructions, or troubleshooting steps.
+5. **Warranties or Guarantees**
+* No guarantees of performance, compatibility, or reliability.
+6. **Integration Readiness**
+* Not designed for seamless integration into production environments.
+7. **Compliance and Certification**
+* No guarantees of compliance with regulatory or industry standards.
+
+**Intended Use**:
+These code samples are provided for educational purposes and as a reference for learning and experimentation. Developers are encouraged to modify and extend the code to suit their specific use cases. For production applications, we recommend consulting our official documentation and leveraging supported SDKs, APIs, and tools.
+We welcome your feedback and contributions, but please understand that this repository is not actively monitored for support requests.
 The official AVEVA samples are organized by technology and accessible through the following table, note you can always utilize GitHub search to find a repo too:
 
 
