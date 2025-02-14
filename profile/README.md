@@ -141,16 +141,6 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/osisoft/sample-afsdk-timer_triggered_calculation-dotnet">.NET</a>
 </details>
 </td>
-<td align="left" valign="top"><a><b>PI System Deployment</b></a>
-<details open><summary><a href="https://github.com/osisoft/sample-pi_core-pi_core_deployment_tests-powershell"><b>PI System Deployment Tests</b></a></summary>
-<a href="https://github.com/osisoft/sample-pi_core-pi_core_deployment_tests-powershell">Powershell</a>
-</details>
-<details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-PI-System/blob/main/docs/PI-Core-Deployment-Docs"><b>PI System Deployment Samples</b></a></summary>
-<a href="https://github.com/osisoft/sample-pi_core-deployment_aws-powershell">AWS Powershell</a><br />
-<a href="https://github.com/osisoft/sample-pi_core-deployment_azure-powershell">Azure Powershell</a><br />
-<a href="https://github.com/osisoft/sample-pi_core-deployment_on_prem-powershell">On-prem Powershell</a>
-</details>
-</td>
 <td align="left" valign="top"><a><b>PI Vision</b></a>
 <details open><summary><a href="https://github.com/AVEVA/AVEVA-Samples-PI-System/blob/main/docs/PI-Vision-Extensibility-Docs"><b>PI Vision Extensibility</b></a></summary>
 <a href="https://github.com/osisoft/sample-pi_vision_extensibility-rotating_arrow-js">JavaScript</a>
