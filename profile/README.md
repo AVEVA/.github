@@ -129,7 +129,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python">Python</a>
 </details>
 </td>
-</tr></table></details><details open><summary><a><b>On-prem System</b></a></summary><table align="middle" width="100%"><tr>
+</tr></table></details><details open><summary><a><b>On-prem Systems</b></a></summary><table align="middle" width="100%"><tr>
 <td align="left" valign="top"><a ><b>PI AFSDK</b></a>
 <details open><summary><a href="https://github.com/osisoft/AF-SDK-Getting-Started-Guide/"><b>AF SDK Getting Started Guide</b></a></summary>
 <a href="https://github.com/osisoft/AF-SDK-Getting-Started-Guide/">.NET</a>
