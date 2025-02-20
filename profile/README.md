@@ -154,12 +154,12 @@ The official AVEVA samples are organized by technology and accessible through th
 </details>
 </td>
 <td align="left" valign="top"><a><b>Wonderware Historian</b></a>
-<details open><summary><a href="https://github.com/AVEVA/sample-WonderwareHistorian"><b>Collection</b></a></summary>
+<details open><summary><a href="https://github.com/AVEVA/sample-WonderwareHistorian"><b>Misc.</b></a></summary>
 <a href="https://github.com/AVEVA/sample-WonderwareHistorian">Powershell and SQL</a>
 </details>
 </td>
 <td align="left" valign="top"><a><b>Wonderware Online/AVEVA Insight</b></a>
-<details open><summary><a href="https://github.com/AVEVA/sample-Wonderware-Online-InSight"><b>Collection</b></a></summary>
+<details open><summary><a href="https://github.com/AVEVA/sample-Wonderware-Online-InSight"><b>Misc.</b></a></summary>
 <a href="https://github.com/AVEVA/sample-Wonderware-Online-InSight">JavaScript and Powershell</a>
 </details>
 </td>
