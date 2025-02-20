@@ -129,8 +129,8 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python">Python</a>
 </details>
 </td>
-</tr></table></details><details open><summary><a><b>PI System</b></a></summary><table align="middle" width="100%"><tr>
-<td align="left" valign="top"><a ><b>AFSDK</b></a>
+</tr></table></details><details open><summary><a><b>On-prem System</b></a></summary><table align="middle" width="100%"><tr>
+<td align="left" valign="top"><a ><b>PI AFSDK</b></a>
 <details open><summary><a href="https://github.com/osisoft/AF-SDK-Getting-Started-Guide/"><b>AF SDK Getting Started Guide</b></a></summary>
 <a href="https://github.com/osisoft/AF-SDK-Getting-Started-Guide/">.NET</a>
 </details>
@@ -151,6 +151,21 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-angular">Angular</a><br />
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-jquery">JQuery</a><br />
 <a href="https://github.com/osisoft/sample-pi_web_api-common_actions-python">Python</a><br />
+</details>
+</td>
+<td align="left" valign="top"><a><b>Wonderware Historian</b></a>
+<details open><summary><a href="https://github.com/AVEVA/sample-WonderwareHistorian"><b>Collection</b></a></summary>
+<a href="https://github.com/AVEVA/sample-WonderwareHistorian">Powershell and SQL</a>
+</details>
+</td>
+<td align="left" valign="top"><a><b>Wonderware Online/AVEVA Insight</b></a>
+<details open><summary><a href="https://github.com/AVEVA/sample-Wonderware-Online-InSight"><b>Collection</b></a></summary>
+<a href="https://github.com/AVEVA/sample-Wonderware-Online-InSight">JavaScript and Powershell</a>
+</details>
+</td>
+<td align="left" valign="top"><a><b>Integration Studio</b></a>
+<details open><summary><a href="https://github.com/AVEVA/sample-Integration-Studio-Powershell"><b>Error details</b></a></summary>
+<a href="https://github.com/AVEVA/sample-Integration-Studio-Powershell">Powershell</a>
 </details>
 </td>
 </tr></table></details><details open><summary><a><b>OMF</b></a></summary><table align="middle" width="100%"><tr>
