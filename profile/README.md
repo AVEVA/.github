@@ -192,14 +192,11 @@ The official AVEVA samples are organized by technology and accessible through th
 </details>
 </td>
 <td align="left" valign="top"><a href=""><b></b></a>
-<details open><summary><a href="https://github.com/osisoft/sample-omf-azure_functions-dotnet"><b>Azure Functions</b></a></summary>
-<a href="https://github.com/osisoft/sample-omf-azure_functions-dotnet">.NET</a>
-</details>
-</td>
-<td align="left" valign="top"><a href=""><b></b></a>
 <details open><summary><a href="https://github.com/osisoft/sample-omf-temperature_sensor-python"><b>Temperature Sensor </b></a></summary>
 <a href="https://github.com/osisoft/sample-omf-temperature_sensor-python">Python</a>
 </details>  
+</td>
+<td align="left" valign="top"><a href=""><b></b></a>
 <details open><summary><a href="https://github.com/AVEVA/sample-omf-sample_libraries-python"><b>OMF Library</b></a></summary>
 <a href="https://github.com/AVEVA/sample-omf-sample_libraries-python">Python</a>
 </details>
