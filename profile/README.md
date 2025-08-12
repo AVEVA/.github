@@ -75,6 +75,9 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet"><b>CSV to CONNECT data services</b></a></summary>
 <a href="https://github.com/aveva/sample-adh-csv_to_adh-dotnet">.NET</a>
 </details>
+<details open><summary><a href="https://github.com/AVEVA/sample-events-to-connect-api"><b>Events to CONNECT Adapter Sample API</b></a></summary>
+<a href="https://github.com/AVEVA/sample-events-to-connect-api">.NET</a>
+</details>
 </td>
 <td align="left" valign="top"><a"><b>Visualization</b></a>
 <details open><summary><a href="https://github.com/aveva/sample-adh-grafana_backend_plugin-datasource"><b>Grafana</b></a></summary>
