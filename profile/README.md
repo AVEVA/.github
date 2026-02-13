@@ -166,6 +166,11 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/AVEVA/sample-Wonderware-Online-InSight">JavaScript and Powershell</a>
 </details>
 </td>
+<td align="left" valign="top"><a><b>System Platform</b></a>
+<details open><summary><a href="https://github.com/AVEVA/Galaxy-Builder"><b>Galaxy-Builder</b></a></summary>
+<a href="https://github.com/AVEVA/Galaxy-Builder">Dotnet</a>
+</details>
+</td>
 <td align="left" valign="top"><a><b>Integration Studio</b></a>
 <details open><summary><a href="https://github.com/AVEVA/sample-Integration-Studio-Powershell"><b>Error details</b></a></summary>
 <a href="https://github.com/AVEVA/sample-Integration-Studio-Powershell">Powershell</a>
