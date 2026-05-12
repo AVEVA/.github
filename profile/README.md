@@ -209,6 +209,12 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/AVEVA/sample-omf-sample_libraries-python">Python</a>
 </details>
 </td>
+</tr></table></details><details open><summary><a><b>AVEVA Open Source</b></a></summary><table align="middle" width="100%"><tr>
+<td align="left" valign="top"><a href=""><b></b></a>
+<details open><summary><a href="https://github.com/AVEVA/adapter-framework"><b>Adapter Framework</b></a></summary>
+<a href="https://github.com/AVEVA/adapter-framework">.NET</a><br />
+</details>
+</td>
 </tr></table></details>
 
 ## About this repo
