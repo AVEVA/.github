@@ -211,6 +211,22 @@ The official AVEVA samples are organized by technology and accessible through th
 </td>
 </tr></table></details>
 
+
+<summary><a><b>Adapter Framework</b></a></summary><table align="middle" width="100%"><tr>
+<td align="left" valign="top"><a href=""><b></b></a>
+<details open><summary><a href="https://github.com/AVEVA/adapter-framework"><b>Source-Code</b></a></summary>
+</details>
+</td>
+<td align="left" valign="top"><a href=""><b></b></a>
+<details open><summary><a href="https://github.com/AVEVA/adapter-framework"><b>Sample Adapter</b></a></summary>
+</details>
+</td>
+<td align="left" valign="top"><a href=""><b></b></a>
+<details open><summary><a href="https://docs.aveva.com/bundle/omf/page/1283981.html">Learn more about OMF specification</a></summary>
+</details>
+</td>
+</tr></table></details>
+
 ## About this repo
 
 The [style guide](https://github.com/AVEVA/.github/blob/main/STYLE_GUIDE.md) describes the organization of the repo and the code samples provided. The [test guide](https://github.com/AVEVA/.github/blob/main/TEST_GUIDE.md) goes into detail about the included automated tests. The [on prem testing](https://github.com/AVEVA/.github/blob/main/ON_PREM_TESTING.md) document describes the software installed on our internal AVEVA build agent.
