@@ -209,7 +209,14 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/AVEVA/sample-omf-sample_libraries-python">Python</a>
 </details>
 </td>
+</tr></table></details><details open><summary><a><b>AVEVA Unified Engineering</b></a></summary><table align="middle" width="100%"><tr>
+<td align="left" valign="top"><a href=""><b></b></a>
+<details open><summary><a href="https://github.com/AVEVA/UnifiedEngineeringCustomizationFramework/blob/main/README.md"><b>AVEVA Unified Engineering Customization Framework</b></a></summary>
+<a href="https://github.com/AVEVA/UnifiedEngineeringCustomizationFramework">.NET</a>
+</details>
+</td>
 </tr></table></details>
+
 
 
 <summary><a><b>Adapter Framework</b></a></summary><table align="middle" width="100%"><tr>
