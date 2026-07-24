@@ -208,7 +208,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/AVEVA/sample-omf-sample_libraries-python">Python</a>
 </details>
 </td>
-</tr><tr><td align="left" valign="top" colspan="7"><b>2.x</b></td></tr>
+</tr><tr><td align="left" valign="top" colspan="7"><b>2.X</b></td></tr>
 <td align="left" valign="top"><b></b>
 <details open><summary><b>Basic OMF</b></summary>
 <a href="">Python</a><br />
