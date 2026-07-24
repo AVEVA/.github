@@ -99,12 +99,11 @@ The official AVEVA samples are organized by technology and accessible through th
 </td>
 </tr><tr><td align="left" valign="top" colspan="5"><b>CONNECT Early Access Phase (EAP)</b></td></tr><tr>
 <td align="left" valign="top"><b>Authentication</b>
-<details open><summary><b>Client Credentials - Simple, No Libraries</b></summary>
+<details open><summary><b>Client Credentials - Simple</b></summary>
 <a href="">.NET (Coming soon)</a><br />
 <a href="">Python (Coming soon)</a><br />
 </details>
 <details open><summary><b>Client Credentials - Kiota and Duende</b></summary>
-<a href="">.NET (Coming soon)</a><br />
 <a href="">Python (Coming soon)</a><br />
 </details>
 </td>
@@ -112,8 +111,27 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><b>Create, Read & Write Time-Series Data</b></summary>
 <a href="https://github.com/AVEVA/sample-connect-streams_creating_reading_and_writing_data">Python</a><br />
 </details>
+<details open><summary><b>Create, Read & Write Events</b></summary>
+<a href="">Python (Coming soon)</a><br />
+</details>
+<details open><summary><b>Create, Read & Write Entities</b></summary>
+<a href="">Python (Coming soon)</a><br />
+</details>
 </td>
-<td align="left" valign="top" colspan="3"></td>
+<td align="left" valign="top"><b>CONNECT Ecosystem</b>
+<details open><summary><b>Data Views Create and Read</b></summary>
+<a href="">Python (Coming soon)</a><br />
+</details>
+<details open><summary><b>OpenSharing and Iceberg REST</b></summary>
+<a href="">Python (Coming soon)</a><br />
+</details>
+</td>
+<td align="left" valign="top"><b>Functionality and Utilities</b>
+<details open><summary><b>Extend Entities With Components</b></summary>
+<a href="">Python (Coming soon)</a><br />
+</details>
+</td>
+<td align="left" valign="top" colspan="2"></td>
 </tr></table></details><details open><summary><b>AVEVA PI System</b></summary><table align="middle" width="100%"><tr>
 <td align="left" valign="top"><b>AFSDK</b>
 <details open><summary><b>AF SDK Getting Started Guide</b></summary>
@@ -152,7 +170,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/osisoft/sample-pi_web_api-data_analysis_jupyter-python">Jupyter (Python)</a>
 </details>
 </td>
-</tr></table></details><details open><summary><b>OMF</b></summary><table align="middle" width="100%"><tr>
+</tr></table></details><details open><summary><b>OMF</b></summary><table align="middle" width="100%"><tr><td align="left" valign="top" colspan="7"><b>1.X</b></td></tr><tr>
 <td align="left" valign="top"><b></b>
 <details open><summary><b>Basic OMF</b></summary>
 <a href="https://github.com/osisoft/sample-omf-basic_api-dotnet">.NET</a><br />
@@ -190,7 +208,15 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/AVEVA/sample-omf-sample_libraries-python">Python</a>
 </details>
 </td>
-</tr></table></details><details open><summary><b>AVEVA Unified Engineering</b></summary><table align="middle" width="100%"><tr>
+</tr><tr><td align="left" valign="top" colspan="7"><b>2.x</b></td></tr>
+<td align="left" valign="top"><b></b>
+<details open><summary><b>Basic OMF</b></summary>
+<a href="">Python</a><br />
+</details>
+</td>
+</table></details>
+
+<details open><summary><b>AVEVA Unified Engineering</b></summary><table align="middle" width="100%"><tr>
 <td align="left" valign="top"><b></b>
 <details open><summary><b>AVEVA Unified Engineering Customization Framework</b></summary>
 <a href="https://github.com/AVEVA/UnifiedEngineeringCustomizationFramework">.NET</a>
