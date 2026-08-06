@@ -11,5 +11,3 @@ Please email samples@aveva.com, and we will respond as quickly as possible.
 If the vulnerability is considered valid and accepted, the samples will be updated accordingly.
 If the vulnerability is deemed invalid, no further action is required.
 
-For more information, see our Ethical Disclosure Policy https://www.aveva.com/ethical-disclosure-policy/. 
-
