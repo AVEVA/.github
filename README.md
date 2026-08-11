@@ -122,7 +122,10 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><b>Data Views Create and Read</b></summary>
 <a href="">Python (Coming soon)</a><br />
 </details>
-<details open><summary><b>OpenSharing and Iceberg REST</b></summary>
+<details open><summary><b>Iceberg REST Flow Time Series Data</b></summary>
+<a href="https://github.com/AVEVA/sample-connect-iceberg_rest_time_series_data">Python</a><br />
+</details>
+<details open><summary><b>OpenSharing Flow Time Series Data</b></summary>
 <a href="">Python (Coming soon)</a><br />
 </details>
 </td>
@@ -210,8 +213,8 @@ The official AVEVA samples are organized by technology and accessible through th
 </td>
 </tr><tr><td align="left" valign="top" colspan="7"><b>2.X</b></td></tr>
 <td align="left" valign="top"><b></b>
-<details open><summary><b>Basic OMF</b></summary>
-<a href="">Python</a><br />
+<details open><summary><b>Temperature Sensor</b></summary>
+<a href="https://github.com/AVEVA/sample-omf-temperature_sensor-python-omf-20">Python</a><br />
 </details>
 </td>
 </table></details>
