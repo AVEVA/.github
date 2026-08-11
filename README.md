@@ -100,8 +100,8 @@ The official AVEVA samples are organized by technology and accessible through th
 </tr><tr><td align="left" valign="top" colspan="5"><b>CONNECT Early Access Phase (EAP)</b></td></tr><tr>
 <td align="left" valign="top"><b>Authentication</b>
 <details open><summary><b>Client Credentials - Simple</b></summary>
-<a href="">.NET (Coming soon)</a><br />
-<a href="">Python (Coming soon)</a><br />
+<a href="https://github.com/AVEVA/sample-connect-authentication_client_credentials_simple-dotnet">.NET</a><br />
+<a href="https://github.com/AVEVA/sample-connect-authentication_client_credentials_simple-python">Python</a><br />
 </details>
 <details open><summary><b>Client Credentials - Kiota and Duende</b></summary>
 <a href="">Python (Coming soon)</a><br />
