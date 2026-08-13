@@ -63,7 +63,7 @@ The official AVEVA samples are organized by technology and accessible through th
 </details>
 </td>
 <td align="left" valign="top"><b>Analytics</b>
-<details open><summary><a href="docs/DATA_VIEWS.md)"><b>Data Views Create and Read</b></a></summary>
+<details open><summary><b>Data Views Create and Read</b></summary>
 <a href="https://github.com/aveva/sample-adh-data_views-python">Python</a><br />
 <a href="https://github.com/aveva/sample-adh-data_views-dotnet">.NET</a>
 </details>
@@ -72,6 +72,12 @@ The official AVEVA samples are organized by technology and accessible through th
 </details>
 <details open><summary><b>Data Views R</b></summary>
 <a href="https://github.com/aveva/sample-adh-data_views_r-r">R</a>
+</details>
+<details open><summary><b>Databricks Notebook - Get Stream Updates With Change Broker</b></summary>
+<a href="https://github.com/AVEVA/sample-connect-get_stream_updates_databricks_notebook">Databricks Python Notebook</a>
+</details>
+<details open><summary><b>Databricks Notebook - Write Back to Streams</b></summary>
+<a href="https://github.com/AVEVA/sample-connect-write_from_databricks_notebook">Databricks Python Notebook</a>
 </details>
 </td>
 <td align="left" valign="top"><b>Functionality & Utilities</b>
