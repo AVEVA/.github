@@ -73,10 +73,10 @@ The official AVEVA samples are organized by technology and accessible through th
 <details open><summary><b>Data Views R</b></summary>
 <a href="https://github.com/aveva/sample-adh-data_views_r-r">R</a>
 </details>
-<details open><summary><b>Databricks Notebook - Get Stream Updates With Change Broker</b></summary>
+<details open><summary><b>Get Stream Updates With Change Broker in Databricks</b></summary>
 <a href="https://github.com/AVEVA/sample-connect-get_stream_updates_databricks_notebook">Databricks Python Notebook</a>
 </details>
-<details open><summary><b>Databricks Notebook - Write Back to Streams</b></summary>
+<details open><summary><b>Write Back to Streams From Databricks</b></summary>
 <a href="https://github.com/AVEVA/sample-connect-write_from_databricks_notebook">Databricks Python Notebook</a>
 </details>
 </td>
