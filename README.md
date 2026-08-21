@@ -132,7 +132,7 @@ The official AVEVA samples are organized by technology and accessible through th
 <a href="https://github.com/AVEVA/sample-connect-iceberg_rest_time_series_data">Python</a><br />
 </details>
 <details open><summary><b>OpenSharing Flow Time Series Data</b></summary>
-<a href="">Python (Coming soon)</a><br />
+<a href="https://github.com/AVEVA/sample-connect-open_sharing_time_series_data">Python</a><br />
 </details>
 </td>
 <td align="left" valign="top"><b>Functionality and Utilities</b>
