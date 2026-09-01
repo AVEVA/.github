@@ -264,7 +264,7 @@ The official AVEVA samples are organized by technology and accessible through th
 </td>
 </tr></table></details>
 
-<summary><a><b>Adapter Framework</b></a></summary><table align="middle" width="100%"><tr>
+<details open><summary><b>Adapter Framework</b></a></summary><table align="middle" width="100%"><tr>
 <td align="left" valign="top"><a href=""><b></b></a>
 <details open><summary><a href="https://github.com/AVEVA/adapter-framework"><b>Source-Code</b></a></summary>
 </details>
