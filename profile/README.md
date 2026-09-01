@@ -1,3 +1,9 @@
+>[!NOTE]
+>## Adapter Framework is Now Open Source
+>Build industrial data adapters faster with **AVEVA's Adapter Framework**. The framework is now available on GitHub, and the associated NuGet packages are publicly available on NuGet.org.
+>**GitHub Repository**: https://github.com/AVEVA/adapter-framework
+>**NuGet Packages**: https://www.nuget.org/packages?q=adapterframework.data
+
 # AVEVA Samples
 
 [AVEVA](https://www.aveva.com/) is a proven leader in enabling industrial intelligence.  Welcome to our GitHub repository of code samples! These examples are provided to help developers quickly become familiar with our technology and accelerate their understanding of our APIs. The code samples are designed to serve as a learning resource and starting point for your development projects.
@@ -254,6 +260,30 @@ The official AVEVA samples are organized by technology and accessible through th
 <td align="left" valign="top"><b></b>
 <details open><summary><b>AVEVA Unified Engineering Customization Framework</b></summary>
 <a href="https://github.com/AVEVA/UnifiedEngineeringCustomizationFramework">.NET</a>
+</details>
+</td>
+</tr></table></details>
+
+<details open><summary><b>Adapter Framework</b></a></summary><table align="middle" width="100%"><tr>
+<td align="left" valign="top"><a href=""><b></b></a>
+<details open><summary><a href="https://github.com/AVEVA/adapter-framework"><b>Source-Code</b></a></summary>
+</details>
+</td>
+<td align="left" valign="top"><a href=""><b></b></a>
+<details open><summary><a href="https://github.com/AVEVA/adapter-framework"><b>Sample Adapter</b></a></summary>
+</details>
+</td>
+<td align="left" valign="top"><a href=""><b></b></a>
+<details open><summary><a href="https://docs.aveva.com/bundle/omf/page/1283981.html">Learn more about OMF specification</a></summary>
+</details>
+</td>
+</tr></table></details>
+
+<details open><summary><b>AVEVA Open Source</b></summary><table align="middle" width="100%">
+<tr>
+<td align="left" valign="top"><b></b>
+<details open><summary><b>RocksDB-Plugin</b></summary>
+<a href="https://github.com/AVEVA/RocksDB-Plugin">.NET</a>
 </details>
 </td>
 </tr></table></details>
