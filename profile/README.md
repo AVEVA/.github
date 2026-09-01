@@ -1,3 +1,6 @@
+>[!NOTE]
+>[Adapter Framework](https://github.com/AVEVA/adapter-framework) is now released.
+
 # AVEVA Samples
 
 [AVEVA](https://www.aveva.com/) is a proven leader in enabling industrial intelligence.  Welcome to our GitHub repository of code samples! These examples are provided to help developers quickly become familiar with our technology and accelerate their understanding of our APIs. The code samples are designed to serve as a learning resource and starting point for your development projects.
@@ -254,6 +257,21 @@ The official AVEVA samples are organized by technology and accessible through th
 <td align="left" valign="top"><b></b>
 <details open><summary><b>AVEVA Unified Engineering Customization Framework</b></summary>
 <a href="https://github.com/AVEVA/UnifiedEngineeringCustomizationFramework">.NET</a>
+</details>
+</td>
+</tr></table></details>
+
+<details open><summary><b>AVEVA Open Source</b></summary><table align="middle" width="100%"><tr>
+<td align="left" valign="top"><b></b>
+<details open><summary><b>Adapter Framework</b></summary>
+<a href="https://github.com/AVEVA/adapter-framework">.NET</a>
+</details>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"><b></b>
+<details open><summary><b>RocksDB-Plugin</b></summary>
+<a href="https://github.com/AVEVA/RocksDB-Plugin">.NET</a>
 </details>
 </td>
 </tr></table></details>
